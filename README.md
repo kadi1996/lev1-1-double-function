@@ -1,5 +1,5 @@
 # lev1-1-double-function
 
-HTML/CSS/JS
+HTML/JS
 
 https://kadi1996.github.io/lev1-1-double-function/
